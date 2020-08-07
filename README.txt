@@ -1,1 +1,1 @@
-basic snake game in python.
+BASIC SNAKE GAME IN PYTHON
